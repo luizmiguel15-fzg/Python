@@ -1,0 +1,15 @@
+São Paulo,22.4
+Rio de Janeiro,29.1
+Curitiba,17.8
+Porto Alegre,19.2
+Salvador,27.6
+Belo Horizonte,21.3
+Manaus,30.2
+Fortaleza,28.7
+Brasília,20.5
+Recife,26.4
+Belém,31.1
+Cuiabá,35.0
+Florianópolis,18.9
+Natal,27.0
+Campo Grande,33.2

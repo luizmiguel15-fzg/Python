@@ -1,0 +1,1 @@
+print(f'A cidade mais quente é {cidade_mais_quente} com {temp_mais_quente}°C.')

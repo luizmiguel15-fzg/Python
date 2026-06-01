@@ -1,0 +1,4 @@
+Luiz 2 2
+Ana 1 1
+Leticia 9 9
+Reyner 0.5 0.5
